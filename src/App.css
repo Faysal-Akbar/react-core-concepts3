@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.increase-button{
+  background-color: lightgreen;
+  font-size: 18px;
+  margin: 10px;
+  padding: 10px;
+  border: 0px;
+  border-radius: 10px;
+}
+.decrease-button{
+  background-color: lightcoral;
+  font-size: 18px;
+  margin: 10px;
+  padding: 10px;
+  border: 0px;
+  border-radius: 10px;
+}
